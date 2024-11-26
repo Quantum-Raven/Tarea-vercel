@@ -70,7 +70,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'python_vercel_task.wsgi.app'
+WSGI_APPLICATION = 'dproject.wsgi.app'
 
 
 # Database
